@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Primeiro Projeto</string>
+    <string name="botao">Alterar Texto</string>
+</resources>

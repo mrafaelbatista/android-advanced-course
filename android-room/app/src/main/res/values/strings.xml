@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Room</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nome_hint">Nome</string>
+    <string name="button_save">Salvar</string>
+    <string name="empty_not_saved">Campo vazio...</string>
+
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shared Preferences APP</string>
+    <string name="botao_salvar">Salvar Preferências</string>
+    <string name="checked">Checado?</string>
+</resources>

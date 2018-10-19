@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PersistindoPessoas</string>
+    <string name="nome">Digite seu nome</string>
+    <string name="sobrenome">Digite seu sobrenome</string>
+    <string name="bt_cadastrar">Cadastrar</string>
+    <string name="bt_consultar">Consultar</string>
+    <string name="id">Digite o id</string>
+    <string name="bt_delete">Deletar</string>
+</resources>
