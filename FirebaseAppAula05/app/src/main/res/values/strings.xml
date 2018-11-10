@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirebaseAppAula05</string>
+
+    <!--Activitys de Cadastros-->
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="cadastrarEmail">Cadastrar</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="cadastraProdutos">Cadastro de Produtos</string>
+    <string name="nomeDoProduto">Nome do produto</string>
+    <string name="quantidadeProduto">Qntd</string>
+    <string name="preco">R$</string>
+    <string name="cadastroProduto">Cadastrar</string>
+
+</resources>
