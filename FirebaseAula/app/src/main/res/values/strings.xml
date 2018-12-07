@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Firebase Aula</string>
+
+    <!--Main Activity-->
+    <string name="autenticacao">Autenticação</string>
+    <string name="btEmailSenha">E-mail e senha</string>
+    <string name="btFacebook">Facebook</string>
+    <string name="btTwitter">Twitter</string>
+    <string name="btGithub">Github</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="tvNomeProduto">Nome do produto</string>
+
+</resources>
